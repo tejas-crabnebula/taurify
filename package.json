@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "platformatic service start"
+    "start": "platformatic service start",
+    "build": "echo \"hello world\""
   },
   "devDependencies": {
     "fastify": "^4.18.0"
